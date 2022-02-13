@@ -1,0 +1,169 @@
+body {
+    background-color: #F5F7FA ;
+    font-family: 'Montserrat', sans-serif;
+}
+.mainsection {
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    background-color: rgb(236, 232, 236);
+    margin: 40px auto;
+}
+/* Main section */
+.maincont {
+    padding: 100px 90px;
+}
+.aboutmesection {
+    margin-bottom: 40px;
+}
+.aboutmeprof { 
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+
+.aboutmename {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 25px;
+}
+.aboutmetext {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(0, 0, 0);
+    width: 400px;
+}
+/* my project section */
+.myproj {
+    margin-bottom: 50px;
+}
+.myprojtitle {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.mainsectionanylist {
+    padding: 0 0 0 15px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.mainbarbullet {
+    color: rgb(0, 0, 0);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+.colorlink {
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.myworkexp {
+    margin-bottom: 40px;
+}
+.myproftitle {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.orangetext {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ce9a0a;
+}
+.greytext {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.mainbarslash {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+/* sidebar section */
+.sidebar {
+    background: #1E2939;
+    width: 370px;
+    padding: 40px 0px;
+}
+.sidebarblockcont {
+    margin: 50px 0 0 40px ;
+}
+.sidebarblocktech {
+    margin: 50px 0 0 40px
+}
+.sidebarblocksoft {
+    margin: 50px 0 0 40px
+}
+.sidebartitle {
+    font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+margin-bottom: 10px;
+}
+/* contacts section */
+.phoneormail {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+.sidebarlink {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 25px;
+    color: #79808A;
+
+}
+/* tech/soft skills section */
+.techorsoftskillslist {
+padding: 0 0 0 17px;
+}
+/* sidebar bullets */
+.sidebarbullet {
+    color: orange;}
+/* tech and soft skills text after orange bullets */
+
+.sidebartextafterbulet {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
